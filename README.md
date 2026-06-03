@@ -1,2 +1,2 @@
-### 05/29 學習 第7週  VS Code 入門與函式.ipynb，最後請練習 APCS 
+### 06/05 學習 第8週VS Code 進階與 APCS 實戰.ipynb 
 
